@@ -18,6 +18,7 @@
     <link rel="stylesheet" href="../../template/assets/css/style.css">
     <!-- End layout styles -->
     <link rel="shortcut icon" href="../../assets/img/logos/logo.png" />
+    <link href="../../template/assets/images/logo.png" rel="icon">
 </head>
 
 <body>
@@ -26,7 +27,7 @@
             <div class="row w-100 m-0">
                 <div class="content-wrapper full-page-wrapper d-flex align-items-center auth login-bg">
                     <div class="card col-lg-4 mx-auto">
-                    <div class="loginstyle">
+                        <div class="loginstyle">
                             <img src="../../landing/assets/img/SFAC-Logo.png" height="100px" width="100">
                         </div>
                         <div class="card-body px-5 py-5">
