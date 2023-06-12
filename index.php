@@ -10,7 +10,7 @@
   <meta content="" name="keywords">
 
   <!-- Favicons -->
-  <link href="assets\img\SFAC-Logo.png" rel="icon">
+  <link href="landing/assets/img/SFAC-Logo.png" rel="icon">
   <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
 
   <!-- Google Fonts -->
@@ -54,7 +54,8 @@
   <!-- ======= Header ======= -->
   <header id="header" class="d-flex align-items-center">
     <div class="container d-flex align-items-center justify-content-between">
-    <a href="index.html" class="logo"><img src="landing/assets/img/logo.png" alt="" class="img-fluid"> SFAC | LAS PINAS</a>
+      <a href="https://stfrancislp.com/landing-lp/index.html" class="logo"><img src="landing/assets/img/logo.png" alt=""
+          class="img-fluid"> SFAC | LAS PINAS</a>
       <!--<a href="style.css" class="logo"><img src="assets\img\SFAC-Logo.png" alt="" class="img-fluid"></a>-->
       <!--<h1 class="logo"><a href="index.html">SFAC | Las Piñas</a></h1>-->
       <!--logo-->
