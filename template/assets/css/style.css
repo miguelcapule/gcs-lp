@@ -19895,7 +19895,7 @@ div.tagsinput {
 /* === Landing screens === */
 /* Auth */
 .auth.login-bg {
-  background: url("../images/auth/Login_bg.jpg");
+  background: url("../images/auth/loginimage.jpg");
   background-size: cover; }
 
 .auth .login-half-bg {
@@ -20036,6 +20036,14 @@ div.tagsinput {
   margin-bottom: 0; }
   .auth .terms a {
     text-decoration: underline; }
+.loginstyle {
+  margin-top: 40px;
+  text-align: center;
+}
+.loginstyle1 {
+  margin-bottom: 20px;
+  text-align: center;
+}
 
 /* Navbar */
 .navbar {
